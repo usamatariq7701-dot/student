@@ -1,4 +1,4 @@
 # student
 This is my first repository
 <br>
-Author - Usama Tariq
+Author - Usama s/o tariq
